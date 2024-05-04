@@ -1,5 +1,5 @@
 # Counter-App
-A visual counter app using HTML, CSS, and plain JavaScript
+A visual counter app using HTML, CSS, and JavaScript
 
 ![counter_updated02](https://github.com/Anna-portfolio/Counter-App/assets/75646880/f818d105-e343-462c-a0e0-70c9e1db2564)
 
