@@ -9,4 +9,4 @@ Main features:
 - three animated counters: number of investments, customers satifsfied, and contracts signed in 2023;
 - the scroll-down and scroll-up animated buttons;
 - the counters running on the scroll event / clicking the scroll-down button;
-- the counters running only once - once their target point are reached, the values are "freezed" (do not change anymore on scroll event/using buttons)
+- the counters running only once - once their target point are reached, the values are "freezed" (do not change anymore on scroll event/buttons)
